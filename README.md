@@ -12,6 +12,7 @@
   <img align="center" alt="Matt-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<div class="pikachu-gif"><img src="https://i.gifer.com/Td9n.gif" alt="Pikachu Dancing Gif" height="250px" width="150px"></div>
 ##
 
 <div> 
