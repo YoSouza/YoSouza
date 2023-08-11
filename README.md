@@ -10,9 +10,9 @@
   <img align="center" alt="Matt-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matt-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matt-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" src="pikachu-dancing.gif" alt="Pikachu Dancing Gif" height="150px" width="150px">
 </div>
 
-<div class="pikachu-gif"><img src="https://i.gifer.com/Td9n.gif" alt="Pikachu Dancing Gif" height="250px" width="150px"></div>
 ##
 
 <div> 
