@@ -1,10 +1,9 @@
-### Hello, World! Sou o Mateus Fonseca! 🫡
-
-##
+<div align= "center">
+<h1>Hello, World! Me chamo Mateus Fonseca 🤓</h1>
+</div>
 
  <div align="center"> 
     <img height="300em" width="350em" src="pikachu-dancing.gif"/>
-    <p> Me chamo Mateus, no momento tenho 16 anos e tenho sonho de       me tornar um Dev Full Stack. No momento estou estudando sobre Front-End e exibindo meus simples projetos aqui :) </p>
  </div>
 
 <div>
