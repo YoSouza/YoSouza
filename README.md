@@ -1,12 +1,12 @@
 <div align= "center">
-<h1>Hello World! Me chamo Mateus Fonseca 🤓</h1>
+<h1>Hello World! I'm Mateus Fonseca 🤓</h1>
 </div>
 
  <div align="center"> 
     <img height="300em" width="350em" src="pikachu-dancing.gif"/>
  </div>
 
-<div>
+<div margin-top="10px">
   <a/href="https://github.com/YoSouza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosouza&layout=compact&langs_count=16&theme=dark"/>
