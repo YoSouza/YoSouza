@@ -1,5 +1,5 @@
 <div align= "center">
-<h1>Hello, World! Me chamo Mateus Fonseca 🤓</h1>
+<h1>Hello World! Me chamo Mateus Fonseca 🤓</h1>
 </div>
 
  <div align="center"> 
@@ -12,13 +12,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosouza&layout=compact&langs_count=16&theme=dark"/>
   </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Matt-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matt-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matt-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-##
 
 <div> 
    <h4> Minhas Redes </h4>
