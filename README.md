@@ -1,5 +1,8 @@
 ### Olá, mundo! Eu sou o Mateus Fonseca
 
+ <div align="center"> 
+    <img height="300em" width="300em" src="pikachu-dancing.gif"/>
+
 <div>
   <a/href="https://github.com/YoSouza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,7 +13,6 @@
   <img align="center" alt="Matt-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matt-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matt-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" src="pikachu-dancing.gif" alt="Pikachu Dancing Gif" height="150px" width="150px">
 </div>
 
 ##
