@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu sou o Mateus Fonseca
 
  <div align="center"> 
-    <img height="300em" width="300em" src="pikachu-dancing.gif"/>
+    <img height="300em" width="350em" src="pikachu-dancing.gif"/>
 
 <div>
   <a/href="https://github.com/YoSouza">
